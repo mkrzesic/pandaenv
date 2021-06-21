@@ -1,0 +1,28 @@
+commit 4d2cfb778427c79d9142e87a47d9c561d85c5211
+tree ba15488143404a3aeb6e432dd27a98cc2b71c73e
+parent a9085edc7d49bb9aab647be4052aba4e23fe6a4c
+author panda <panda@email.com> 2021-06-21 00:49:32 +0000
+committer panda <panda@email.com> 2021-06-21 00:49:32 +0000
+
+    Update of the web addresses
+
+
+:100644 100644 ea09d47f5f387bcf0d81256a0a8ec9bf480b0ec6 45255ee681d54e337ec9c91550e4b0d83ccb55e9 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
+:100644 100644 c4a380533f366a54e30599f7debd21dbaabf5e03 f9840f13d5b84f201d18bebe510078c25f23776e M	target/classes/pl/pandait/panda/HelloController.class
+:100644 100644 54811cd99b2708e8f145533b61fe097367b37df7 fa9c800540ebd89bba31b47f9ac463c1461e0e0b M	target/classes/pl/pandait/panda/PandaApplication.class
+:000000 100644 0000000000000000000000000000000000000000 635d90a9d42bbe71144a70cf9559a2a2143408f5 A	target/maven-archiver/pom.properties
+:000000 100644 0000000000000000000000000000000000000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 A	target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 203aa01d73c39d0d264b158200f885121e31c1d0 A	target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 A	target/maven-status/maven-compiler-plugin/compile/default/createdFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 203aa01d73c39d0d264b158200f885121e31c1d0 A	target/maven-status/maven-compiler-plugin/compile/default/inputFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 A	target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 893bfd7145197029031eb7c51d311a0da09c3db6 A	target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+:000000 100644 0000000000000000000000000000000000000000 e56d7dded74229762298ba2069b2dc23d551e8bc A	target/panda-0.0.1.jar
+:000000 100644 0000000000000000000000000000000000000000 6440abe26b22f7ddfe5c80350baee7f2cf26db4b A	target/panda-0.0.1.jar.original
+:000000 100644 0000000000000000000000000000000000000000 d6856760972e40bce58b1b2868ebea4c3a7a3545 A	target/surefire-reports/TEST-pl.pandait.panda.HelloControllerTest.xml
+:000000 100644 0000000000000000000000000000000000000000 177887407fdaa1544767b9fe6522b0daf9e68a3f A	target/surefire-reports/TEST-pl.pandait.panda.PandaApplicationTest.xml
+:000000 100644 0000000000000000000000000000000000000000 1c928b328518975d36987ca4192054093048fdb8 A	target/surefire-reports/pl.pandait.panda.HelloControllerTest.txt
+:000000 100644 0000000000000000000000000000000000000000 1505d0c86f71eeb52fa346e094da28f41ad22cbe A	target/surefire-reports/pl.pandait.panda.PandaApplicationTest.txt
+:100644 100644 dc59a2ba3cd7bd7ee37a9088d4e14413259312b3 53ea811f52bf636f3115db27ee8b95ed0873d1e3 M	target/test-classes/pl/pandait/panda/HelloControllerTest.class
+:100644 100644 e4705cc9fbf051c6162762581a0929b3c4c292cf a0a165b2e63a5ed707a9b2cd226a6d6ee9193cf8 M	target/test-classes/pl/pandait/panda/PandaApplicationSeleniumTest.class
+:100644 100644 743a27432c717629b4d0b155417c15b793d5b9e8 51493a7f497db0f5b09f4453709970bf3d6b18f0 M	target/test-classes/pl/pandait/panda/PandaApplicationTest.class

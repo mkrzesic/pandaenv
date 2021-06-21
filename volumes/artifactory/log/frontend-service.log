@@ -1,0 +1,61 @@
+2021-06-20T23:36:29.048Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - frontend (jffe) service initialization started. Version: 1.19.4 Revision: 10000004 PID: 3880 Home: /opt/jfrog/artifactory
+2021-06-20T23:36:29.050Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - attempting pinging artifactory for 180 retires and 1.0s interval for total of 3 minutes
+2021-06-20T23:36:38.155Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory, attempt number 10
+2021-06-20T23:36:38.177Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory attempt number 10 failed with code : ECONNREFUSED
+2021-06-20T23:36:48.226Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory, attempt number 20
+2021-06-20T23:36:48.228Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory attempt number 20 failed with code : ECONNREFUSED
+2021-06-20T23:36:51.244Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:52.249Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:53.253Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:54.257Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:55.273Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:56.280Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:57.287Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:58.289Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory, attempt number 30
+2021-06-20T23:36:58.291Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:36:58.292Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory attempt number 30 failed with code : undefined
+2021-06-20T23:36:59.297Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:00.303Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:01.308Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:02.316Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:03.320Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:04.326Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 404 code
+2021-06-20T23:37:05.341Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:06.349Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:07.357Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:08.361Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory, attempt number 40
+2021-06-20T23:37:08.371Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:08.374Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - pinging artifactory attempt number 40 failed with code : undefined
+2021-06-20T23:37:09.381Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:10.391Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:11.397Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:12.406Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:13.420Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:14.432Z [jffe ] [[31M[1M[ERROR][22M[39M] [                ] [                              ] [main                ] - ArtifactoryClient::http [get] request to /api/system/ping failed with 503 code
+2021-06-20T23:37:15.741Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - artifactory was pinged successfully
+2021-06-20T23:37:15.742Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - setting service id - jffe@000
+2021-06-20T23:37:15.826Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - Cluster join: Successfully joined the cluster
+2021-06-20T23:37:15.882Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - UI service successfully registered on router, serviceId: jffe@000
+2021-06-20T23:37:16.213Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - Recurring tasks started
+2021-06-20T23:37:16.549Z [jffe ] [[34M[INFO ][39M] [                ] [                              ] [main                ] - frontend (jffe) service initialization completed in 47.74 seconds. Listening on port: port 8070
+2021-06-20T23:46:39.386Z [jffe ] [[31M[1M[ERROR][22M[39M] [352126fe60f8166c] [                              ] [main                ] - http [post] request to /api/v1/oauth/token/revoke failed with 404 code
+2021-06-20T23:46:39.387Z [jffe ] [[31M[1M[ERROR][22M[39M] [352126fe60f8166c] [                              ] [main                ] - Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.393Z [jffe ] [[31M[1M[ERROR][22M[39M] [352126fe60f8166c] [                              ] [main                ] - error in revoking UI session token Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.394Z [jffe ] [[31M[1M[ERROR][22M[39M] [352126fe60f8166c] [                              ] [main                ] - Error: Access couldn't revoke session token, Error : [Request failed with status code 404]
+    at AccessClient.logAndCreateError (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:373:10)
+    at AccessClient.revokeUiSessionToken (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:126:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2021-06-20T23:46:39.427Z [jffe ] [[31M[1M[ERROR][22M[39M] [d52df5cdcb5cf66 ] [                              ] [main                ] - http [post] request to /api/v1/oauth/token/revoke failed with 404 code
+2021-06-20T23:46:39.427Z [jffe ] [[31M[1M[ERROR][22M[39M] [d52df5cdcb5cf66 ] [                              ] [main                ] - Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.428Z [jffe ] [[31M[1M[ERROR][22M[39M] [d52df5cdcb5cf66 ] [                              ] [main                ] - error in revoking UI session token Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.429Z [jffe ] [[31M[1M[ERROR][22M[39M] [d52df5cdcb5cf66 ] [                              ] [main                ] - Error: Access couldn't revoke session token, Error : [Request failed with status code 404]
+    at AccessClient.logAndCreateError (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:373:10)
+    at AccessClient.revokeUiSessionToken (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:126:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2021-06-20T23:46:39.441Z [jffe ] [[31M[1M[ERROR][22M[39M] [4ee3e7280dbf779c] [                              ] [main                ] - http [post] request to /api/v1/oauth/token/revoke failed with 404 code
+2021-06-20T23:46:39.443Z [jffe ] [[31M[1M[ERROR][22M[39M] [4ee3e7280dbf779c] [                              ] [main                ] - Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.443Z [jffe ] [[31M[1M[ERROR][22M[39M] [4ee3e7280dbf779c] [                              ] [main                ] - error in revoking UI session token Access couldn't revoke session token, Error : [Request failed with status code 404]
+2021-06-20T23:46:39.444Z [jffe ] [[31M[1M[ERROR][22M[39M] [4ee3e7280dbf779c] [                              ] [main                ] - Error: Access couldn't revoke session token, Error : [Request failed with status code 404]
+    at AccessClient.logAndCreateError (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:373:10)
+    at AccessClient.revokeUiSessionToken (/opt/jfrog/artifactory/app/frontend/bin/server/dist/node_modules/@jfrog/access-nodejs-client/src/AccessClient.ts:126:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)

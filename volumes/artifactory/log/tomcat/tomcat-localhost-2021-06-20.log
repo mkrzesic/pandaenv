@@ -1,0 +1,2 @@
+20-Jun-2021 23:36:30.900 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+20-Jun-2021 23:36:37.169 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext

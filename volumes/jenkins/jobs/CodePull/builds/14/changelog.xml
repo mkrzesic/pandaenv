@@ -1,0 +1,11 @@
+commit a0fef9af0e09647048d9e213391535597a72a40d
+tree 4163f4b9e6f41eab84d82d87fd34e3208f1b4261
+parent 4d2cfb778427c79d9142e87a47d9c561d85c5211
+author panda <panda@email.com> 2021-06-21 01:07:05 +0000
+committer panda <panda@email.com> 2021-06-21 01:07:05 +0000
+
+    Update of the RemoteWebDriver
+
+
+:100644 100644 45255ee681d54e337ec9c91550e4b0d83ccb55e9 a1e907e0770f7f11b60984a1677935e377e51fc3 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
+:100644 100644 a0a165b2e63a5ed707a9b2cd226a6d6ee9193cf8 05f0353a5392146ef85d6d879d6c85b6bbfe8e72 M	target/test-classes/pl/pandait/panda/PandaApplicationSeleniumTest.class

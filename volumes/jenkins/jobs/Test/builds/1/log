@@ -1,0 +1,14 @@
+Started by user [8mha:////4GvnQkW65MrLY93Ym9dXHiEaGu8dCq/JSDg+xNsvVLJoAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9gsS8lEQACjKVYMAAAAA=[0mpanda
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Test
+[Test] $ /bin/sh -xe /tmp/jenkins4643215627520025713.sh
++ [ true==true ]
++ echo prawda
+prawda
+[Test] $ /bin/sh -xe /tmp/jenkins15158111675128330147.sh
++ echo Ala
+Ala
+[Test] $ /bin/sh -xe /tmp/jenkins623016916335011287.sh
++ echo NewString
+NewString
+Finished: SUCCESS

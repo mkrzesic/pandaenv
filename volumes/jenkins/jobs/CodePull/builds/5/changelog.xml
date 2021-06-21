@@ -1,0 +1,11 @@
+commit a9085edc7d49bb9aab647be4052aba4e23fe6a4c
+tree e333d38ce89c62248315442fa0a278686b23ca90
+parent b82045ee56279abb985ed701691d3e4d9696f335
+author panda <panda@email.com> 2021-06-11 18:08:11 +0000
+committer panda <panda@email.com> 2021-06-11 18:08:11 +0000
+
+    next commit
+
+
+:100644 100644 90899625ad2a9b37027fcab58900dac8d6c651c0 ea09d47f5f387bcf0d81256a0a8ec9bf480b0ec6 M	src/test/java/pl/pandait/panda/PandaApplicationSeleniumTest.java
+:100644 100644 3fa340a46007ca777419564e3a83eea43e61571f e4705cc9fbf051c6162762581a0929b3c4c292cf M	target/test-classes/pl/pandait/panda/PandaApplicationSeleniumTest.class
